@@ -8,7 +8,7 @@
         body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f4; }
         .container { width: 80%; margin: auto; padding: 20px; }
         h1 { color: #333; }
-        .book { background: white; padding: 10px; margin: 10px; border-radius: 5px; }
+        .book { background: black; padding: 10px; margin: 10px; border-radius: 5px; }
     </style>
 </head>
 <body>
