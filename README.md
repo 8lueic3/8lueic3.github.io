@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to Library Hub</h1>
+        <h1>Welcome to the boring library</h1>
         <div class="book">📖 Book 1: Learn JavaScript</div>
         <div class="book">📖 Book 2: Web Development Basics</div>
         <div class="book">📖 Book 3: HTML & CSS Guide</div>
